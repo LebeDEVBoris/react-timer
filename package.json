@@ -1,0 +1,14 @@
+{
+  "name": "react-timer",
+  "version": "1.0.0",
+  "description": "Just a practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
